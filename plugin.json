@@ -1,0 +1,10 @@
+
+{
+  "name": "adneuron",
+  "version": "1.0.0",
+  "description": "AI-powered advertising copilot to create, manage, analyze, and optimize campaigns across multiple ad platforms.",
+  "author": {
+    "name": "AdNeuron",
+    "url": "https://adneuron.ai"
+  }
+}
